@@ -1,0 +1,11 @@
+streamlit==1.29.0
+torch==2.1.2
+torchvision==0.16.2
+timm==0.9.12
+transformers==4.37.2
+pillow==10.2.0
+numpy==1.26.3
+groq
+matplotlib
+seaborn
+fpdf
